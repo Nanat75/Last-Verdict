@@ -1,5 +1,10 @@
-# ⚖️ Last Verdict  
-*A gothic morality-based judgement game*
+<div align="center">
+
+#  ⚖️ Last Verdict - Web Phaser Game
+### *A gothic morality-based judgement game*
+
+</div>
+
 
 > **Status:** 🚧 Work in Progress (WIP)
 
