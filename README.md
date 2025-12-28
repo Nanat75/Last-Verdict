@@ -96,10 +96,12 @@ These interconnected systems create a tense judgement loop where truth, doubt, a
 - Full-stack development  
 - Atmospheric UI/UX  
 
-The game is still evolving — and every verdict brings it closer to its final form.
+The game is still evolving, and every verdict brings it closer to its final form.
 
 > *“In the end, the court will judge you as well.”*
 
 ---
 
-⚖️ **Last Verdict** — *Your judgement is final.*
+<p align="center">
+  <i>⚖️ Last Verdict — Your judgement is final.</i><br>
+</p>
