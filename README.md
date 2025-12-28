@@ -1,61 +1,100 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# ⚖️ Last Verdict  
+*A gothic morality-based judgement game*
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+> **Status:** 🚧 Work in Progress (WIP)
+
+---
+
+## 🕯️ Overview
+
+**Last Verdict** is a narrative-driven judgement game set in a cathedral-like afterlife court.  
+You awaken as a lost soul, granted one final chance to alter your fate by judging the wandering dead.
+
+Each soul appears wearing a carved mask that represents their sin in life.  
+They may plead, deceive, or lie — and it is your responsibility to decide:
+
+**Redeem them… or condemn them.**
+
+Your choices do not only affect the souls you judge  
+they also shape **your own final fate**.
+
+---
+
+## 🎮 Core Concept & Gameplay
+
+Set in a **gothic afterlife courtroom**, *Last Verdict* places you in the role of a silent judge, deciding the fate of masked souls who embody their sins.
+
+-  Dark gothic courtroom in the afterlife  
+-  Masked souls that visually react to lies and guilt  
+-  Evidence-based investigations & interrogations  
+-  Time-limited moral decisions  
+-  Judgements affect corruption & moral alignment  
+-  A hidden murderer storyline beneath the trials  
+-  Multiple endings shaped by every verdict you deliver  
+
+---
+
+## 🧠 Core Game Systems
+
+| System | Description |
+|------|------------|
+| 📜 **Book of Life** | A detailed and sometimes *redacted* record of a soul’s actions. |
+| ✉️ **Witness Letters** | Biased, emotional, or contradictory testimonies from the living and the dead. |
+| 🎭 **Mask Reaction System** | Masks crack, glow, or distort when a soul lies or hides the truth. |
+| 🗣️ **Interrogation** | Question souls directly and observe emotional tells and inconsistencies. |
+| ⚖️ **Soul Ledger** | A cosmic balance tracking virtues versus sins. |
+| 🪦 **Death Certificate** | Official records that may conceal or alter the truth. |
+| ⏳ **Timed Judgement** | Decide **Redeem** or **Condemn** before the mask “sets.” |
+
+These interconnected systems create a tense judgement loop where truth, doubt, and personal bias constantly collide.
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" />
+      <img src="https://cdn.phaser.io/images/logo/phaser-planet-web.png" height="48"/>
 </p>
 
-## About Laravel
+- **Phaser.js** — Game engine  
+- **Laravel** — Backend & data handling  
+- **PHP** — Server-side logic  
+- **HTML / CSS** — UI & layout  
+- **XAMPP** — Local development  
+- **VS Code** — Development environment  
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 📚 What I Learned
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- ⚖️ **Branching Narrative Design**  
+  Designing moral outcomes based on hidden variables and player choice.
 
-## Learning Laravel
+- 🎮 **Phaser.js Game Systems**  
+  Implementing interaction systems, UI animations, and state-based mechanics.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- 🎨 **Gothic UI & UX Design**  
+  Maintaining visual consistency and atmosphere across all interfaces.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+- ✍️ **Narrative Structuring**  
+  Writing interconnected character stories with emotional consequences.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+---
 
-## Laravel Sponsors
+## 🕯️ Final Note
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+**Last Verdict** is a deeply personal project created to strengthen my skills in:
 
-### Premium Partners
+- Game design  
+- Narrative systems  
+- Full-stack development  
+- Atmospheric UI/UX  
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+The game is still evolving — and every verdict brings it closer to its final form.
 
-## Contributing
+> *“In the end, the court will judge you as well.”*
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+---
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+⚖️ **Last Verdict** — *Your judgement is final.*
